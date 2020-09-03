@@ -2,6 +2,9 @@
   "name": "full-stack-tamplate",
   "private": true,
   "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
   "description": "Express server with CRA, ESLint, Git Hooks and Prettier",
   "main": "server.js",
   "scripts": {
